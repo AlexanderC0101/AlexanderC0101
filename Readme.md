@@ -30,3 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexanderc0101&show_icons=true&locale=en" alt="alexanderc0101" /></p>
 
+<p><img align="left" src="https://miro.medium.com/max/4800/1*99QW3Cgy77Mya7sX7TbbYA.jpeg"/></p>
